@@ -1,10 +1,16 @@
                                           💻 Software Engineer | Junior Front-End Developer 💻
+                                          
+   <div href="https://www.linkedin.com/in/matheus-ricci-228a06182/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></div> 
+  
+
 
 <br>
 
 <div align="center">
   <a href="https://github.com/MR1CC1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MR1CC1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR1CC1&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
@@ -19,7 +25,6 @@
   <br>
   
   <div> 
-  <a href="https://www.linkedin.com/in/matheus-ricci-228a06182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
