@@ -1,4 +1,4 @@
-                                          💻 Software Engineer | Junior Front-End Developer 💻
+                                          💻 Software Engineer | Front-End Developer 💻
                                           
    <a href="https://www.linkedin.com/in/matheus-ricci-228a06182/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
